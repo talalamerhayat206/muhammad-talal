@@ -11,7 +11,21 @@
 
 ## 🧰 Tech Stack
 - Languages: Python, C++, Rust, DSL  
-- Tools: Git, VS Code, Jupyter, Stata, Android Studio  
+- Tools: Git, VS Code, Jupyter, Stata, Android Studio
+
+## 💼 Experience
+
+### 🔹 Blockchain Developer Intern
+- Developed an end-to-end encrypted messaging system with blockchain-based transactions  
+- Supports communication via Bluetooth and WiFi Direct (offline capability)  
+- Built using Rust (backend) and Flutter (frontend) 
+
+
+### 🔹 Member – Student Investment Group
+- Conducted financial analysis of equities and bonds using data-driven methods  
+- Assisted in building and evaluating investment portfolios  
+- Applied statistical and econometric concepts to assess risk and returns  
+
 
 ## 📌 Featured Projects
 
@@ -20,10 +34,7 @@
 - Used Random Forest, Logistic Regression, and CART  
 - Achieved 85% accuracy with optimized feature selection  
 
-### 🔹 Blockchain Messaging App
-- Developed an end-to-end encrypted messaging system with blockchain-based transactions  
-- Supports communication via Bluetooth and WiFi Direct (offline capability)  
-- Built using Rust (backend) and Flutter (frontend)  
+ 
 
 ### 🔹 Study on Racial Discrimination in the U.S. Labor Market
 - Replicated a well-known audit study using Stata and statistical analysis  
