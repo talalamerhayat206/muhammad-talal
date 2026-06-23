@@ -4,7 +4,8 @@
 
 ## 👨‍💻 About Me
 - 🎓 Data Science student at FAST-NUCES  
-- 🌍 Studied abroad at Dickinson College, USA (Econometrics & AI in Finance)  
+- 🌍 Studied abroad at Dickinson College, USA (Econometrics & AI in Finance)
+- 🌍 Studied at U.S Army War College, USA (public speaking for intl Leaders & Leading Innovation)
 - 📊 Interested in Machine Learning, Finance, Blockchain & Data Analysis  
 - 🔗 Currently building blockchain-based applications  
 - 🌱 Expanding skills in Deep Learning and decentralized systems  
